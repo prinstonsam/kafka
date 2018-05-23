@@ -7,3 +7,7 @@ https://www.confluent.io/online-talk/etl-is-dead-long-live-streams/
 
 http://git/projects/JWS/repos/ru.alfabank.ws.cs.eq/pull-requests/158/overview
 
+Про документирование
+https://www.tothepoint.company/blog/spring-rest-doc/
+https://www.youtube.com/watch?v=knH5ihPNiUs
+
