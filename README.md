@@ -11,3 +11,6 @@ http://git/projects/JWS/repos/ru.alfabank.ws.cs.eq/pull-requests/158/overview
 https://www.tothepoint.company/blog/spring-rest-doc/
 https://www.youtube.com/watch?v=knH5ihPNiUs
 
+Про mesos marathon
+https://habr.com/post/308812/
+
